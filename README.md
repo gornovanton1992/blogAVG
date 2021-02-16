@@ -1,0 +1,2 @@
+# blogAVG
+my githob page
